@@ -1,4 +1,4 @@
-# Ansible Skeleton
+# Ansible Archetype
 
 This is a base directory layout for ansible playbooks. It is based in the best practices recomendations by ansible http://docs.ansible.com/ansible/playbooks_best_practices.html#directory-layout.
 
